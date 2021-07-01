@@ -2,28 +2,19 @@
 
 <img src="https://i.ibb.co/37ytZsW/bg-6.png">
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+Este projeto foi gerado utilizando [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 
-## Development server
+## Servidor de desenvolvimento
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Execute o comando `ng serve` para criar um servidor de desenvolvimento. Navegue até `http://localhost:4200/`. O cartaz irá gerar automaticamente na medida que você for adicionando informações nos campos de entrada.
 
 ## Build
+Execute `ng build` para buildar o projeto. O resultado o build estará guardado na pasta `dist/`
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Rodando testes de unidade
 
-## Running unit tests
+Execute `ng test` para realizar o teste de unidades via [Karma](https://karma-runner.github.io).
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+## Rodando testes end-to-end
 
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Execute `ng e2e`  para realizar o teste end-to-end através de qualquer plataforma de sua escolha, para usar este comando, primeiro você precisará adicionar um pacote que implemente testes end-to-end

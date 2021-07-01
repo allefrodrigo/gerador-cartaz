@@ -1,4 +1,6 @@
-# CartazAngular
+# Gerador-Cartaz
+
+<img src="https://i.ibb.co/37ytZsW/bg-6.png">
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
 

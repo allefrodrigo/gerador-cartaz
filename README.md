@@ -1,8 +1,6 @@
 # Gerador-Cartaz
 
-<img src="https://i.ibb.co/37ytZsW/bg-6.png">
-
-Este projeto foi gerado utilizando [Angular CLI](https://github.com/angular/angular-cli) version 12.1.0.
+<img src="https://i.imgur.com/grrXOQx.png">
 
 ## Servidor de desenvolvimento
 
